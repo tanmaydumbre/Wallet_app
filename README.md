@@ -1,11 +1,5 @@
 <h1 align="center"> Wallet - Expense Tracker with React Native & Express </h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
-
-##  What You'll Build
-
-
-
 ##  .env Setup
 
 ### ⚙️ Backend (`/backend`)
